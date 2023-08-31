@@ -1,0 +1,381 @@
+*{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+header{
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    width: 1918px;
+    height: 849px;
+    flex-shrink: 0;
+}
+
+
+
+.headerparagraph{
+    padding: 48px 240px;
+    
+
+}
+
+.headerimage{
+    width: 633px;
+    height: 799px;
+    flex-shrink: 0;
+}
+
+.ourfeaturedflowers{
+    width: 1918px;
+    height: 4865px;
+}
+
+.ourflowers{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 41px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.beautiful{
+    width: 705px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 81px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.it{
+    width: 634px;
+
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+}
+
+.button1{
+    border-radius: 7px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-style: none;
+}
+
+.ourflowerdescription{
+    width: 596px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
+    margin-left: 602px;
+   
+    
+}
+
+.ouriamges{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px 244px;
+   
+    
+}     
+
+
+.image1{
+         padding: 40px;
+    border-radius: 301px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+
+.image2{
+    padding: 60px;
+    border-radius: 301px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.image3{
+    padding: 30px;
+    margin-bottom: 25px;
+    border-radius: 301px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+
+ 
+}
+
+
+.imagetext{
+    display: flex;
+    justify-content: space-evenly;
+   
+    text-decoration: underline;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px; /* 145.833% */
+    text-decoration-line: underline;
+   
+
+}
+
+.delivery{
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    width: 1444px;
+    height: 322px;
+    flex-shrink: 0;
+    padding-left: 100px;
+    margin-left: 200px;
+    margin-top: 191px;
+ 
+}
+
+.images{
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-around;
+    align-items: center;
+    padding: 100px 200px;
+    padding-bottom: 0px;
+    /* margin-top: 30px; */
+}
+
+.iconname{
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-around;
+    align-items: center;
+    padding: 00px 200px;
+    /* margin-top: 30px; */
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px; /* 145.833% */
+    height: auto;
+    width: auto;
+    gap: 60px;
+    
+    padding-left: 10px;
+   
+}
+
+.hotdeals{
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    /* width: 1922px; */
+    width: auto;
+    height: 620px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 130px;
+}
+
+
+.hotheading{
+    color: #272727;
+    font-family: Lato;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.off{
+    color: #E55473;
+    font-family: Lato;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.hotdescription{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    width: 594px;
+}
+
+
+.hot-upto > button{
+  margin-left: 200px;
+}
+
+.instragram{
+    margin-top: 120px;
+}
+
+
+.insheading{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.ins-des{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    width: 594px;
+   margin-left: 650px;
+}
+
+.flowerimages{
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+    gap: 31px;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+footer{
+   
+
+   align-items: center;
+  
+
+
+}
+
+
+.footerimage{
+    position: absolute;
+    margin-left: 233px;
+    margin-top: 100px;
+}
+
+
+.footheader{
+    position: absolute;
+
+    margin-top: 200px;
+    
+    margin-left: 550px;
+    padding-bottom: 50px;
+    
+   
+
+}
+
+.latestdeal{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+
+.coupon{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+
+
+}
+
+.input{
+    width: 699px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+    border-color: #FFF;
+    
+}
+
+
+.flowershop{
+    background: #111010;
+    margin-top: 600px;
+    padding-top: 60px;
+}
+
+.flower-header{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 49px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-left: 800px;
+    
+}
+
+.flower-header > span{
+    color: #E55473;
+    font-family: Lato;
+    font-size: 49px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.reader{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    width: 625px;
+    padding-left: 610px;
+}
+
+
+.all-rights{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 40px;
+}
